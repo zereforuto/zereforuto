@@ -74,6 +74,15 @@ I enjoy working across the development stack, from designing interfaces and impl
 
 ### 🖥️ Application Development
 
+### 📱 Mobile & Cross-Platform Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart"/>
+</p>
+
+- Flutter — Cross-platform mobile application development
+- Dart — Application programming with Flutter
+
 <p>
   <img src="https://skillicons.dev/icons?i=electron,react,ts" alt="Electron, React and TypeScript"/>
 </p>
