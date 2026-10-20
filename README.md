@@ -23,24 +23,34 @@
 
 ## `01 // WHO AM I?`
 
+
+## `01 // WHO AM I?`
+
 ```text
 USER       : Jayzer Relator
-ROLE       : Full-Stack Developer
-INTERESTS  : Web Development / Software / UI-UX
-MINDSET    : Build. Design. Improve. Repeat.
+ROLE       : Full-Stack & Cross-Platform Developer
+LEADERSHIP : Team Leadership & Collaboration
+INTERESTS  : Web / Mobile / Desktop / UI-UX
+MINDSET    : Lead. Build. Design. Innovate.
 STATUS     : Always learning, always creating.
 ```
 
-I'm a developer passionate about building functional, modern, and user-friendly digital experiences.
+I'm a developer passionate about building modern applications,
+solving problems, and turning ideas into practical digital
+experiences.
 
-I enjoy working across the development stack, from designing interfaces and implementing frontend experiences to building application logic and managing databases.
+Beyond coding, I bring strong leadership skills, enjoy
+collaborating with others, and value teamwork, communication,
+and getting things done.
 
-- 💻 **Frontend:** Responsive and interactive user interfaces.
-- ⚙️ **Backend:** Application logic, APIs, and data processing.
-- 🗄️ **Databases:** SQL, relational database design, and backend services.
-- 🖥️ **Applications:** Web, native, and desktop application development.
-- 🎨 **Design:** UI/UX, prototyping, and visual design.
-- 🚀 **Goal:** Build practical software with clean code and thoughtful design.
+- 💻 **Full-Stack Development:** Frontend, backend, and APIs.
+- 📱 **Mobile Development:** Flutter and Dart.
+- 🖥️ **Desktop Development:** Electron and native applications.
+- 🗄️ **Database Development:** SQL databases and backend services.
+- 🎨 **UI/UX Design:** User-friendly interfaces and visual design.
+- 👑 **Leadership:** Team coordination, collaboration, and problem-solving.
+- 🤖 **AI-Assisted Development:** Antigravity IDE and modern development workflows.
+- 🚀 **Mission:** Build useful software and help teams turn ideas into reality.
 
 ---
 
@@ -102,6 +112,18 @@ I enjoy working across the development stack, from designing interfaces and impl
 - **Microsoft Office** — Word, Excel, and PowerPoint
 
 ### 🛠️ Tools & Workflow
+
+### 🤖 AI-Assisted Development & IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="Development environments"/>
+  <img src="https://img.shields.io/badge/Antigravity-IDE-7C3AED?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE"/>
+</p>
+
+- Antigravity IDE — AI-assisted development and coding workflows
+- Visual Studio Code
+- Visual Studio
+- Git and GitHub
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Git, GitHub, Visual Studio Code and Visual Studio"/>
