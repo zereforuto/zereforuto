@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=6" width="100%" alt="Ferrari red racing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=8" width="100%" alt="Ferrari red racing stripe"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=60&lines=JAYZER+RELATOR" alt="Jayzer Relator"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=33&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=65&lines=JAYZER+RELATOR" alt="Jayzer Relator"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=35&lines=FULL-STACK+DEVELOPER" alt="Full-stack developer"/>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2400&pause=600&color=FF2800&center=true&vCenter=true&width=850&height=40&lines=NO+LIMITS.+JUST+LAP+TIMES.;PRECISION+OVER+SHORTCUTS.;HIT+THE+APEX.+OWN+THE+LINE.;BUILT+FOR+SPEED.+ENGINEERED+TO+WIN.;FAST+MIND.+CLEAN+CODE.;EVERY+DETAIL+MATTERS.;INNOVATE.+EXECUTE.+DOMINATE.;FULL+THROTTLE.+ZERO+COMPROMISE.;CHASE+PERFECTION.+DELIVER+RESULTS." alt="Animated racing quotes"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2400&pause=600&color=FF2800&center=true&vCenter=true&width=850&height=40&lines=NO+LIMITS.+JUST+LAP+TIMES.;PRECISION+OVER+SHORTCUTS.;HIT+THE+APEX.+OWN+THE+LINE.;BUILT+FOR+SPEED.+ENGINEERED+TO+WIN.;FAST+MIND.+CLEAN+CODE.;EVERY+DETAIL+MATTERS.;INNOVATE.+EXECUTE.+DOMINATE.;FULL+THROTTLE.+ZERO+COMPROMISE.;CHASE+PERFECTION.+DELIVER+RESULTS." alt="Animated racing quotes"/>
 
 <br/>
 
@@ -34,9 +34,9 @@
 <img src="https://img.shields.io/badge/ENTER_THE_GARAGE-FF2800?style=flat&logo=github&logoColor=white&labelColor=111111" alt="Enter the garage"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=3" width="65%" alt="Red racing divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=4" width="65%" alt="Red racing divider"/>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=DRIVER+PROFILE" alt="Driver profile"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=DRIVER+PROFILE" alt="Driver profile"/>
 
 <br/>
 
@@ -54,6 +54,8 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
 I'm a full-stack developer who enjoys building useful applications, designing intuitive interfaces, and turning ideas into working software.
@@ -62,23 +64,25 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-FF2800?style=flat&labelColor=111111" alt="Web development"/>
+<img src="https://img.shields.io/badge/01-WEB_DEVELOPMENT-FF2800?style=flat&labelColor=111111" alt="Web development"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MOBILE_%26_DESKTOP-FFD700?style=flat&labelColor=111111" alt="Mobile and desktop development"/>
+<img src="https://img.shields.io/badge/02-MOBILE_%26_DESKTOP-FFD700?style=flat&labelColor=111111" alt="Mobile and desktop development"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/DATABASE_SYSTEMS-FF2800?style=flat&labelColor=111111" alt="Database systems"/>
+<img src="https://img.shields.io/badge/03-DATABASE_SYSTEMS-FF2800?style=flat&labelColor=111111" alt="Database systems"/>
 &nbsp;
-<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-FFD700?style=flat&labelColor=111111" alt="UI and UX design"/>
+<img src="https://img.shields.io/badge/04-UI%2FUX_DESIGN-FFD700?style=flat&labelColor=111111" alt="UI and UX design"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/TEAM_LEADERSHIP-FF2800?style=flat&labelColor=111111" alt="Team leadership"/>
+<img src="https://img.shields.io/badge/05-TEAM_LEADERSHIP-FF2800?style=flat&labelColor=111111" alt="Team leadership"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ANTIGRAVITY_IDE-FFD700?style=flat&labelColor=111111" alt="Antigravity IDE"/>
+<img src="https://img.shields.io/badge/06-ANTIGRAVITY_IDE-FFD700?style=flat&labelColor=111111" alt="Antigravity IDE"/>
 
 </div>
 
@@ -86,7 +90,7 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=ENGINE+%26+TECHNOLOGY" alt="Engine and technology"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=ENGINE+%26+TECHNOLOGY" alt="Engine and technology"/>
 
 <br/>
 
@@ -103,15 +107,17 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
 &nbsp;
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=111111" alt="JavaScript"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 
 <br/>
 
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+&nbsp;
 <img src="https://img.shields.io/badge/REACT-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
 &nbsp;
 <img src="https://img.shields.io/badge/NEXT.JS-FFFFFF?style=flat&logo=nextdotjs&logoColor=111111" alt="Next.js"/>
-&nbsp;
+
+<br/>
+
 <img src="https://img.shields.io/badge/VITE-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
 &nbsp;
 <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
@@ -143,7 +149,9 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
 &nbsp;
 <img src="https://img.shields.io/badge/DART-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
-&nbsp;
+
+<br/>
+
 <img src="https://img.shields.io/badge/ELECTRON-2B2E3A?style=flat&logo=electron&logoColor=9FEAF9" alt="Electron"/>
 &nbsp;
 <img src="https://img.shields.io/badge/NATIVE_APPLICATIONS-FF2800?style=flat&labelColor=111111" alt="Native applications"/>
@@ -159,19 +167,21 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 &nbsp;
 <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-&nbsp;
+
+<br/>
+
 <img src="https://img.shields.io/badge/SQLITE-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
 &nbsp;
-<img src="https://img.shields.io/badge/SSMS-FF2800?style=flat&labelColor=111111" alt="SSMS"/>
+<img src="https://img.shields.io/badge/MS_SQL_SERVER-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
 
 <br/>
 
+<img src="https://img.shields.io/badge/SSMS-FF2800?style=flat&labelColor=111111" alt="SQL Server Management Studio"/>
+&nbsp;
 <img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=flat&logo=supabase&logoColor=111111" alt="Supabase"/>
-&nbsp;
+
+<br/>
+
 <img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=flat&logo=firebase&logoColor=white" alt="Firebase"/>
 
 </div>
@@ -191,7 +201,9 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 &nbsp;
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-&nbsp;
+
+<br/>
+
 <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 &nbsp;
 <img src="https://img.shields.io/badge/VISUAL_STUDIO-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
@@ -208,7 +220,7 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=THE+GARAGE" alt="The garage"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=THE+GARAGE" alt="The garage"/>
 
 <br/>
 
@@ -216,7 +228,11 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 <img src="https://img.shields.io/badge/VIEW_ALL_BUILDS-FF2800?style=flat&logo=github&logoColor=white&labelColor=111111" alt="View all builds"/>
 </a>
 
-<br/><br/>
+<br/>
+
+</div>
+
+<div align="center">
 
 | **BUILD CATEGORY** | **ENGINEERING STACK** |
 |:---:|:---:|
@@ -228,7 +244,9 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 | Programming projects | Python · Java · C++ |
 | UI/UX design | Figma · Canva |
 
-<br/>
+</div>
+
+<div align="center">
 
 <a href="https://github.com/zereforuto?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-FFD700?style=flat&logo=github&logoColor=111111&labelColor=111111" alt="Explore repositories"/>
@@ -240,19 +258,19 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=TELEMETRY" alt="Telemetry"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=TELEMETRY" alt="Telemetry"/>
 
 <br/>
 
-<img width="85%" src="https://github-readme-stats.vercel.app/api?username=zereforuto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2800&text_color=FFFFFF&icon_color=FFD700" alt="GitHub statistics"/>
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=zereforuto&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2800&text_color=FFFFFF&icon_color=FFD700" alt="GitHub statistics"/>
 
 <br/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zereforuto&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2800&text_color=FFFFFF" alt="Most used languages"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zereforuto&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2800&text_color=FFFFFF" alt="Most used languages"/>
 
 <br/>
 
-<img width="85%" src="https://streak-stats.demolab.com/?user=zereforuto&theme=dark&hide_border=true&background=0D1117&ring=FF2800&fire=FFD700&currStreakLabel=FF2800&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
+<img width="65%" src="https://streak-stats.demolab.com/?user=zereforuto&theme=dark&hide_border=true&background=0D1117&ring=FF2800&fire=FFD700&currStreakLabel=FF2800&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
 
 <br/>
 
@@ -266,7 +284,7 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=NEXT+LAPS" alt="Next laps"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=NEXT+LAPS" alt="Next laps"/>
 
 <br/>
 
@@ -294,7 +312,7 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=THE+FINISH+LINE" alt="The finish line"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=THE+FINISH+LINE" alt="The finish line"/>
 
 <br/>
 
@@ -308,10 +326,10 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 &nbsp;
 <img src="https://img.shields.io/badge/DRIVEN_TO_IMPROVE-FFD700?style=flat&labelColor=111111" alt="Driven to improve"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2800,50:990000,100:080808&height=100&section=footer" width="100%" alt="Rosso Corsa footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2800,50:990000,100:080808&height=150&section=footer" width="100%" alt="Rosso Corsa footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=6" width="100%" alt="Bottom racing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=8" width="100%" alt="Bottom racing stripe"/>
 
 </div>
