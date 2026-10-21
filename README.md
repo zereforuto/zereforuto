@@ -53,10 +53,10 @@
 
 ---
 
-<!-- 01 / DRIVER PROFILE -->
+<!-- DRIVER PROFILE -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=800&height=50&lines=01+%2F+DRIVER+PROFILE" alt="Driver profile"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=800&height=50&lines=DRIVER+PROFILE" alt="Driver profile"/>
 
 <br/><br/>
 
@@ -84,16 +84,16 @@
 
 ---
 
-<!-- 02 / ENGINE AND TECHNOLOGY -->
+<!-- ENGINE AND TECHNOLOGY -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=50&lines=02+%2F+ENGINE+%26+TECHNOLOGY" alt="Engine and technology"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=50&lines=ENGINE+%26+TECHNOLOGY" alt="Engine and technology"/>
 </div>
 
 <!-- FRONTEND ENGINEERING -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=700&height=45&lines=01+%2F+FRONTEND+ENGINEERING" alt="Frontend engineering"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=700&height=45&lines=FRONTEND+ENGINEERING" alt="Frontend engineering"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/HTML5-FF2800?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=101010" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-FF2800?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=101010" alt="CSS3"/>
@@ -112,9 +112,9 @@
 
 <!-- PROGRAMMING LANGUAGES -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=700&height=45&lines=02+%2F+PROGRAMMING+LANGUAGES" alt="Programming languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=700&height=45&lines=PROGRAMMING+LANGUAGES" alt="Programming languages"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/PYTHON-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=101010" alt="Python"/>
 <img src="https://img.shields.io/badge/JAVA-FF2800?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=101010" alt="Java"/>
@@ -126,9 +126,9 @@
 
 <!-- MOBILE AND DESKTOP SYSTEMS -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=800&height=45&lines=03+%2F+MOBILE+%26+DESKTOP+SYSTEMS" alt="Mobile and desktop systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=800&height=45&lines=MOBILE+%26+DESKTOP+SYSTEMS" alt="Mobile and desktop systems"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/FLUTTER-FF2800?style=for-the-badge&logo=flutter&logoColor=FFFFFF&labelColor=101010" alt="Flutter"/>
 <img src="https://img.shields.io/badge/DART-FF2800?style=for-the-badge&logo=dart&logoColor=FFFFFF&labelColor=101010" alt="Dart"/>
@@ -140,9 +140,9 @@
 
 <!-- DATABASES AND BACKEND -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=750&height=45&lines=04+%2F+DATABASES+%26+BACKEND" alt="Databases and backend"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=750&height=45&lines=DATABASES+%26+BACKEND" alt="Databases and backend"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/MYSQL-FF2800?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=101010" alt="MySQL"/>
 <img src="https://img.shields.io/badge/POSTGRESQL-FF2800?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=101010" alt="PostgreSQL"/>
@@ -163,9 +163,9 @@
 
 <!-- DESIGN AND DEVELOPMENT TOOLS -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=05+%2F+DESIGN+%26+DEVELOPMENT+TOOLS" alt="Design and development tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=DESIGN+%26+DEVELOPMENT+TOOLS" alt="Design and development tools"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/FIGMA-FF2800?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=101010" alt="Figma"/>
 <img src="https://img.shields.io/badge/CANVA-FFD700?style=for-the-badge&logo=canva&logoColor=FFD700&labelColor=101010" alt="Canva"/>
@@ -185,10 +185,10 @@
 
 ---
 
-<!-- 03 / THE GARAGE -->
+<!-- THE GARAGE -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=750&height=50&lines=03+%2F+THE+GARAGE" alt="The Garage"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=750&height=50&lines=THE+GARAGE" alt="The Garage"/>
 
 <br/><br/>
 
@@ -222,10 +222,10 @@
 
 ---
 
-<!-- 04 / TELEMETRY -->
+<!-- TELEMETRY -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=750&height=50&lines=04+%2F+TELEMETRY" alt="Telemetry"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=750&height=50&lines=TELEMETRY" alt="Telemetry"/>
 
 <br/><br/>
 
@@ -244,10 +244,10 @@
 
 ---
 
-<!-- 05 / NEXT LAPS -->
+<!-- NEXT LAPS -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=750&height=50&lines=05+%2F+NEXT+LAPS" alt="Next laps"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=750&height=50&lines=NEXT+LAPS" alt="Next laps"/>
 
 <br/><br/>
 
@@ -269,10 +269,10 @@
 
 ---
 
-<!-- 06 / THE FINISH LINE -->
+<!-- THE FINISH LINE -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=800&height=50&lines=06+%2F+THE+FINISH+LINE" alt="The finish line"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=800&height=50&lines=THE+FINISH+LINE" alt="The finish line"/>
 
 <br/><br/>
 
