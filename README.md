@@ -1,33 +1,33 @@
 
 <!--
-  JAYZER RELATOR | ROSSO CORSA RACING EDITION
+  JAYZER RELATOR | WORLD CHAMPION EDITION
   GitHub: zereforuto
 -->
 
 <div align="center">
 
-<!-- TOP RACING STRIPE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=7" width="100%" alt="Rosso Corsa racing stripe"/>
+<!-- ROSSO CORSA TOP STRIPE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=7" width="100%" alt="Rosso Corsa stripe"/>
 
-<!-- RACING HEADER: ANGULAR RED / BLACK -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,25:160000,55:650000,80:CC0000,100:FF2800&height=190&section=header&text=JAYZER%20RELATOR&fontSize=55&fontColor=FFFFFF&fontAlignY=42" width="100%" alt="Jayzer Relator racing header"/>
+<!-- MAIN RACING HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,30:250000,65:850000,100:FF2800&height=185&section=header&text=JAYZER%20RELATOR&fontSize=58&fontColor=FFFFFF&fontAlignY=43&font=Orbitron" width="100%" alt="Jayzer Relator racing header"/>
 
-<!-- RACING NUMBER + TELEMETRY -->
-<img src="https://img.shields.io/badge/DRIVER-07-FF2800?style=for-the-badge&labelColor=080808" alt="Driver number 07"/>
+<!-- DRIVER NUMBER / TELEMETRY -->
+<img src="https://img.shields.io/badge/DRIVER-01-FF2800?style=for-the-badge&labelColor=080808" alt="Driver number 01"/>
+<img src="https://img.shields.io/badge/STATUS-WORLD%20CHAMPION-FFD700?style=for-the-badge&labelColor=080808" alt="World champion"/>
 <img src="https://img.shields.io/badge/SPEED-350%20KM%2FH-FF2800?style=for-the-badge&labelColor=080808" alt="350 kilometers per hour"/>
 <img src="https://img.shields.io/badge/DRS-OPEN-FFD700?style=for-the-badge&labelColor=080808" alt="DRS open"/>
 
 <br/><br/>
 
-<!-- ANIMATED TYPOGRAPHY -->
+<!-- TECHNICAL RACING TYPOGRAPHY -->
 <a href="https://github.com/zereforuto">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2400&pause=700&color=FF2800&background=00000000&center=true&vCenter=true&width=700&lines=FULL-STACK+DEVELOPER;PRECISION+ENGINEERED.;BUILT+FOR+PERFORMANCE.;ALWAYS+PUSHING+THE+LIMITS." alt="Animated developer tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=19&duration=2200&pause=700&color=FF2800&background=00000000&center=true&vCenter=true&width=720&lines=FULL-STACK+DEVELOPER;PRECISION+ENGINEERED.;BUILT+FOR+PERFORMANCE.;ALWAYS+PUSHING+THE+LIMITS." alt="Animated racing tagline"/>
 </a>
 
 <br/><br/>
 
-<!-- RACING DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=3" width="75%" alt="Red racing divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=3" width="80%" alt="Racing divider"/>
 
 <br/><br/>
 
@@ -38,16 +38,16 @@
 <br/><br/>
 
 <a href="https://github.com/zereforuto?tab=repositories">
-<img src="https://img.shields.io/badge/ENTER_THE_GARAGE-101010?style=for-the-badge&logo=github&logoColor=FF2800" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/ENTER_THE_GARAGE-101010?style=for-the-badge&logo=github&logoColor=FF2800" alt="Enter the garage"/>
 </a>
 
 <br/><br/>
 
-<b>ENGINEERED WITH PRECISION. DRIVEN TO CREATE.</b>
+<b>ENGINEERED WITH PRECISION. DRIVEN TO WIN.</b>
 
 <br/>
 
-<sub>ROSSO CORSA · FULL THROTTLE · NO SHORTCUTS</sub>
+<sub>ROSSO CORSA · WORLD CHAMPION · FULL THROTTLE</sub>
 
 </div>
 
@@ -59,11 +59,13 @@
 <tr>
 <td width="65%" valign="top">
 
-### Jayzer Relator
+### JAYZER RELATOR
+
+**FULL-STACK DEVELOPER · TEAM LEADER**
 
 I'm a full-stack developer who enjoys engineering useful applications, designing intuitive interfaces, and turning ideas into working software.
 
-I bring strong leadership skills, a collaborative mindset, and a focus on continuous improvement. I aim to build solutions that are practical, polished, and reliable.
+I bring strong leadership skills, a collaborative mindset, and a focus on continuous improvement. My goal is to build solutions that are practical, polished, and reliable.
 
 - 🏁 Full-stack web development
 - 📱 Cross-platform mobile and desktop applications
@@ -75,31 +77,31 @@ I bring strong leadership skills, a collaborative mindset, and a focus on contin
 </td>
 <td width="35%" valign="top">
 
-### 🏎️ RACE DATA
+### RACE DATA
 
-**ROLE**
+**DRIVER NO.**
 
-Full-Stack Developer
-
-**SPECIALTY**
-
-Web · Mobile · Desktop
-
-**LEADERSHIP**
-
-Teamwork & Coordination
-
-**RACE PACE**
-
-350 KM/H · DRS OPEN
-
-**PHILOSOPHY**
-
-Precision over shortcuts.
+01
 
 **STATUS**
 
-🟢 Always improving.
+WORLD CHAMPION
+
+**SPECIALTY**
+
+WEB · MOBILE · DESKTOP
+
+**RACE PACE**
+
+350 KM/H
+
+**AERO**
+
+DRS OPEN
+
+**MINDSET**
+
+PRECISION OVER SHORTCUTS
 
 </td>
 </tr>
@@ -109,39 +111,39 @@ Precision over shortcuts.
 
 ## `02 / ENGINE & TECHNOLOGY`
 
-### Frontend
+### FRONTEND ENGINEERING
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" alt="Frontend technology stack"/>
 </p>
 
-### Languages & Backend
+### PROGRAMMING LANGUAGES
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,php" alt="Programming languages"/>
 </p>
 
-### Mobile & Desktop
+### MOBILE & DESKTOP SYSTEMS
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,electron" alt="Flutter, Dart and Electron"/>
 </p>
 
-- Flutter and Dart: cross-platform applications
-- Electron: desktop applications
-- Native application development
+- FLUTTER / DART — Cross-platform application development
+- ELECTRON — Desktop applications
+- NATIVE — Application development
 
-### Databases & Services
+### DATABASES & BACKEND
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,firebase" alt="Databases and backend platforms"/>
 </p>
 
-- Microsoft SQL Server and SQL Server Management Studio (SSMS)
-- MySQL, PostgreSQL and SQLite
-- Supabase and Firebase
+- MICROSOFT SQL SERVER / SSMS
+- MYSQL · POSTGRESQL · SQLITE
+- SUPABASE · FIREBASE
 
-### Design & Development Tools
+### DESIGN & DEVELOPMENT TOOLS
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio" alt="Design and development tools"/>
@@ -157,20 +159,20 @@ Precision over shortcuts.
 <div align="center">
 
 <a href="https://github.com/zereforuto?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_BUILDS-FF2800?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" alt="Explore my projects"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_BUILDS-FF2800?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" alt="View all projects"/>
 </a>
 
 </div>
 
-| 🏎️ Build category | ⚙️ Engineering stack |
+| BUILD CATEGORY | ENGINEERING STACK |
 |:--|:--|
-| Web applications | React, Next.js, TypeScript |
-| Mobile applications | Flutter, Dart |
-| Database systems | SQL Server, MySQL, PostgreSQL |
-| Backend integration | PHP, Supabase, Firebase |
-| Desktop applications | Electron, TypeScript |
-| Programming projects | Python, Java, C++ |
-| UI/UX design | Figma, Canva |
+| WEB APPLICATIONS | React, Next.js, TypeScript |
+| MOBILE APPLICATIONS | Flutter, Dart |
+| DATABASE SYSTEMS | SQL Server, MySQL, PostgreSQL |
+| BACKEND INTEGRATION | PHP, Supabase, Firebase |
+| DESKTOP APPLICATIONS | Electron, TypeScript |
+| PROGRAMMING PROJECTS | Python, Java, C++ |
+| UI/UX DESIGN | Figma, Canva |
 
 *Explore my [repositories](https://github.com/zereforuto?tab=repositories) to see my projects and ongoing development work.*
 
@@ -198,12 +200,12 @@ Precision over shortcuts.
 ## `05 / NEXT LAPS`
 
 ```text
-[ LAP 1 · IN PROGRESS ]  Leveling up full-stack engineering
-[ LAP 2 · IN PROGRESS ]  Building practical database systems
-[ LAP 3 · IN PROGRESS ]  Exploring mobile and desktop development
-[ LAP 4 · IN PROGRESS ]  Refining UI/UX and visual design
-[ LAP 5 · IN PROGRESS ]  Strengthening leadership and collaboration
-[ FINISH · TARGET     ]  Shipping stronger portfolio projects
+[ LAP 01 · IN PROGRESS ]  Advancing full-stack engineering
+[ LAP 02 · IN PROGRESS ]  Building practical database systems
+[ LAP 03 · IN PROGRESS ]  Exploring mobile and desktop development
+[ LAP 04 · IN PROGRESS ]  Refining UI/UX and visual design
+[ LAP 05 · IN PROGRESS ]  Strengthening leadership and teamwork
+[ CHECKERED FLAG      ]  Shipping stronger portfolio projects
 ```
 
 ---
@@ -212,8 +214,9 @@ Precision over shortcuts.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FINAL_LAP-350_KM%2FH-FF2800?style=for-the-badge&labelColor=080808" alt="Final lap"/>
-<img src="https://img.shields.io/badge/DRS-DEPLOYED-FFD700?style=for-the-badge&labelColor=080808" alt="DRS deployed"/>
+<img src="https://img.shields.io/badge/DRIVER-01-FF2800?style=for-the-badge&labelColor=080808" alt="Driver 01"/>
+<img src="https://img.shields.io/badge/WORLD-CHAMPION-FFD700?style=for-the-badge&labelColor=080808" alt="World champion"/>
+<img src="https://img.shields.io/badge/DRS-DEPLOYED-FF2800?style=for-the-badge&labelColor=080808" alt="DRS deployed"/>
 
 <br/><br/>
 
@@ -225,11 +228,11 @@ Precision over shortcuts.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2800,45:990000,100:080808&height=120&section=footer" width="100%" alt="Rosso Corsa footer"/>
 
-<b>BUILT TO CREATE. DRIVEN TO IMPROVE.</b>
+<b>BUILT TO CREATE. DRIVEN TO WIN.</b>
 
 <br/>
 
-<sub>One project at a time. One commit at a time. 🏁</sub>
+<sub>ONE PROJECT AT A TIME. ONE COMMIT AT A TIME. 🏁</sub>
 
 <br/><br/>
 
