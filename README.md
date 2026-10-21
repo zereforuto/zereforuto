@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=1000&height=80&lines=JAYZER+RELATOR" alt="Jayzer Relator"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=40&lines=FULL-STACK+DEVELOPER+%2F%2F+DRIVER+01" alt="Full-stack developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=40&lines=FULL-STACK+DEVELOPER" alt="Full-stack developer"/>
 
 <br/><br/>
 
