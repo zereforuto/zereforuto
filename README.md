@@ -337,27 +337,21 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 <br/>
 
-<img src="https://img.shields.io/badge/LAP_01-ADVANCE_FULL--STACK_ENGINEERING-FF2800?style=for-the-badge&labelColor=111111" height="42" alt="Full-stack engineering"/>
+<img src="https://img.shields.io/badge/LAP_01-ADVANCE_FULL--STACK_ENGINEERING-FF2800?style=for-the-badge&labelColor=111111" alt="Full-stack engineering"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LAP_02-BUILD_DATABASE_SYSTEMS-FFD700?style=for-the-badge&labelColor=111111" alt="Database systems"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/LAP_02-BUILD_DATABASE_SYSTEMS-FFD700?style=for-the-badge&labelColor=111111" height="42" alt="Database systems"/>
+<img src="https://img.shields.io/badge/LAP_03-EXPLORE_MOBILE_%26_DESKTOP-FF2800?style=for-the-badge&labelColor=111111" alt="Mobile and desktop development"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LAP_04-REFINE_UI%2FUX_DESIGN-FFD700?style=for-the-badge&labelColor=111111" alt="UI and UX design"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/LAP_03-EXPLORE_MOBILE_%26_DESKTOP-FF2800?style=for-the-badge&labelColor=111111" height="42" alt="Mobile and desktop development"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LAP_04-REFINE_UI%2FUX_DESIGN-FFD700?style=for-the-badge&labelColor=111111" height="42" alt="UI and UX design"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LAP_05-LEVEL_UP_GRAPHIC_DESIGN_%26_ANIMATION-FF2800?style=for-the-badge&labelColor=111111" height="42" alt="Graphic design and animation"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LAP_06-SHIP_STRONGER_PROJECTS-FFD700?style=for-the-badge&labelColor=111111" height="42" alt="Portfolio projects"/>
+<img src="https://img.shields.io/badge/LAP_05-LEVEL_UP_GRAPHIC_DESIGN_%26_ANIMATION-FF2800?style=for-the-badge&labelColor=111111" alt="Graphic design and animation"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LAP_06-SHIP_STRONGER_PROJECTS-FFD700?style=for-the-badge&labelColor=111111" alt="Portfolio projects"/>
 
 </div>
 
