@@ -7,8 +7,6 @@
 <div align="center">
 
 
-<!-- MAIN DRIVER WORDMARK -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,25:220000,60:780000,100:FF2800&height=205&section=header&text=JAYZER%20RELATOR&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=DRIVER%20NO.%2001%20%2F%2F%20WORLD%20CHAMPION&descSize=15&descAlignY=76&descColor=FFD700" width="100%" alt="Jayzer Relator racing driver wordmark"/>
 
 <!-- DRIVER TELEMETRY -->
 <img src="https://img.shields.io/badge/DRIVER-01-FF2800?style=for-the-badge&labelColor=080808" alt="Driver number 01"/>
