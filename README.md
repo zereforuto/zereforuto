@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2800,60:B30000,100:080808&height=200&section=header&reversal=false&fontAlignY=40" width="100%" alt="Rosso Corsa header wave"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=4" width="100%" alt="Gold racing stripe"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" alt="White racing stripe"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=10" width="100%" alt="Ferrari red racing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" alt="White racing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=4" width="100%" alt="Gold racing stripe"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2800,60:B30000,100:080808&height=200&section=header&reversal=false&fontAlignY=40" width="100%" alt="Rosso Corsa header wave"/>
 
 <br/><br/>
 
@@ -43,7 +43,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2400&pause=700&color=FF2800&center=true&vCenter=true&width=1100&height=60&lines=NO+LIMITS.+JUST+LAP+TIMES.;PRECISION+OVER+SHORTCUTS.;HIT+THE+APEX.+OWN+THE+LINE.;BUILT+FOR+SPEED.+ENGINEERED+TO+WIN.;FAST+MIND.+CLEAN+CODE.;EVERY+DETAIL+MATTERS.;INNOVATE.+EXECUTE.+DOMINATE.;FULL+THROTTLE.+ZERO+COMPROMISE.;CHASE+PERFECTION.+DELIVER+RESULTS." alt="Animated racing quotes"/>
 
-<br/>
+<br/><br/><br/>
 
 <a href="https://github.com/zereforuto?tab=repositories">
 <img src="https://img.shields.io/badge/ENTER_THE_GARAGE-FF2800?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" height="68" alt="Enter the garage"/>
