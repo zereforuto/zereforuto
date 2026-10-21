@@ -1,54 +1,53 @@
 
 <!--
-  JAYZER RELATOR | ROSSO CORSA F1 EDITION
+  JAYZER RELATOR | ROSSO CORSA RACING EDITION
   GitHub: zereforuto
 -->
 
 <div align="center">
 
 <!-- TOP RACING STRIPE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=6" width="100%" alt="Rosso Corsa racing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=7" width="100%" alt="Rosso Corsa racing stripe"/>
 
-<!-- MAIN F1 BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:450000,75:B00000,100:FF2800&height=240&section=header&text=JAYZER%20RELATOR&fontSize=52&fontColor=FFFFFF&fontAlignY=34&desc=FULL-STACK%20DEVELOPER%20%7C%20ROSSO%20CORSA&descSize=15&descAlignY=53&descColor=FFD700" width="100%" alt="Jayzer Relator Rosso Corsa F1 header"/>
+<!-- RACING HEADER: ANGULAR RED / BLACK -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,25:160000,55:650000,80:CC0000,100:FF2800&height=190&section=header&text=JAYZER%20RELATOR&fontSize=55&fontColor=FFFFFF&fontAlignY=42" width="100%" alt="Jayzer Relator racing header"/>
 
-<!-- SPEED TELEMETRY -->
+<!-- RACING NUMBER + TELEMETRY -->
+<img src="https://img.shields.io/badge/DRIVER-07-FF2800?style=for-the-badge&labelColor=080808" alt="Driver number 07"/>
 <img src="https://img.shields.io/badge/SPEED-350%20KM%2FH-FF2800?style=for-the-badge&labelColor=080808" alt="350 kilometers per hour"/>
 <img src="https://img.shields.io/badge/DRS-OPEN-FFD700?style=for-the-badge&labelColor=080808" alt="DRS open"/>
-<img src="https://img.shields.io/badge/ENGINEERING-FULL%20THROTTLE-FF2800?style=for-the-badge&labelColor=080808" alt="Full throttle engineering"/>
 
 <br/><br/>
 
-<!--
-  F1 CAR ANIMATION
-  Replace the placeholder below with a direct URL to a publicly hosted
-  animated GIF or animated SVG of a red F1 car.
-  Suggested scene: side-view red F1 car, DRS open, 350 km/h,
-  dark track, speed lines and motion blur.
--->
-
-<img src="YOUR_ANIMATED_F1_CAR_GIF_URL" width="100%" alt="Red F1 car at 350 km/h with DRS open"/>
-
-<!-- ANIMATED RACING TAGLINES -->
+<!-- ANIMATED TYPOGRAPHY -->
 <a href="https://github.com/zereforuto">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&duration=2200&pause=650&color=FF2800&background=00000000&center=true&vCenter=true&width=700&lines=350+KM%2FH+%7C+DRS+ACTIVATED;PRECISION+OVER+SHORTCUTS.;FULL-STACK+%C2%B7+MOBILE+%C2%B7+DESKTOP;ALWAYS+PUSHING+THE+LIMITS." alt="Animated F1 engineering slogans"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2400&pause=700&color=FF2800&background=00000000&center=true&vCenter=true&width=700&lines=FULL-STACK+DEVELOPER;PRECISION+ENGINEERED.;BUILT+FOR+PERFORMANCE.;ALWAYS+PUSHING+THE+LIMITS." alt="Animated developer tagline"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/01-FULL--STACK%20ENGINEERING-FF2800?style=for-the-badge&labelColor=111111" alt="Full-stack engineering"/>
-<img src="https://img.shields.io/badge/02-LEADERSHIP-FFD700?style=for-the-badge&labelColor=111111" alt="Leadership"/>
-<img src="https://img.shields.io/badge/03-PERFORMANCE-FF2800?style=for-the-badge&labelColor=111111" alt="Performance"/>
+<!-- RACING DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=3" width="75%" alt="Red racing divider"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/01-FULL--STACK%20ENGINEERING-FF2800?style=for-the-badge&labelColor=101010" alt="Full-stack engineering"/>
+<img src="https://img.shields.io/badge/02-LEADERSHIP-FFD700?style=for-the-badge&labelColor=101010" alt="Leadership"/>
+<img src="https://img.shields.io/badge/03-PERFORMANCE-FF2800?style=for-the-badge&labelColor=101010" alt="Performance"/>
 
 <br/><br/>
 
 <a href="https://github.com/zereforuto?tab=repositories">
-<img src="https://img.shields.io/badge/ENTER%20THE%20GARAGE-111111?style=for-the-badge&logo=github&logoColor=FF2800" alt="Enter the garage"/>
+<img src="https://img.shields.io/badge/ENTER_THE_GARAGE-101010?style=for-the-badge&logo=github&logoColor=FF2800" alt="Explore projects"/>
 </a>
 
 <br/><br/>
 
-<b>ENGINEERED WITH PRECISION. DRIVEN AT FULL THROTTLE.</b>
+<b>ENGINEERED WITH PRECISION. DRIVEN TO CREATE.</b>
+
+<br/>
+
+<sub>ROSSO CORSA · FULL THROTTLE · NO SHORTCUTS</sub>
 
 </div>
 
@@ -158,7 +157,7 @@ Precision over shortcuts.
 <div align="center">
 
 <a href="https://github.com/zereforuto?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20BUILDS-FF2800?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" alt="Explore my projects"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_BUILDS-FF2800?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" alt="Explore my projects"/>
 </a>
 
 </div>
@@ -213,18 +212,18 @@ Precision over shortcuts.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FINAL%20LAP-350%20KM%2FH-FF2800?style=for-the-badge&labelColor=080808" alt="Final lap at 350 kilometers per hour"/>
+<img src="https://img.shields.io/badge/FINAL_LAP-350_KM%2FH-FF2800?style=for-the-badge&labelColor=080808" alt="Final lap"/>
 <img src="https://img.shields.io/badge/DRS-DEPLOYED-FFD700?style=for-the-badge&labelColor=080808" alt="DRS deployed"/>
 
 <br/><br/>
 
 <a href="https://github.com/zereforuto">
-<img src="https://img.shields.io/badge/FOLLOW%20THE%20JOURNEY-FF2800?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" alt="Follow my GitHub journey"/>
+<img src="https://img.shields.io/badge/FOLLOW_THE_JOURNEY-FF2800?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" alt="Follow my GitHub journey"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2800,55:8B0000,100:080808&height=120&section=footer" width="100%" alt="Rosso Corsa footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2800,45:990000,100:080808&height=120&section=footer" width="100%" alt="Rosso Corsa footer"/>
 
 <b>BUILT TO CREATE. DRIVEN TO IMPROVE.</b>
 
@@ -234,6 +233,6 @@ Precision over shortcuts.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=6" width="100%" alt="Rosso Corsa finishing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=6" width="100%" alt="Racing stripe"/>
 
 </div>
