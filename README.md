@@ -81,21 +81,24 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-WEB_DEVELOPMENT-FF2800?style=for-the-badge&labelColor=111111" height="42" alt="Web development"/>
-<br/>
-<img src="https://img.shields.io/badge/02-MOBILE_%26_DESKTOP-FFD700?style=for-the-badge&labelColor=111111" height="42" alt="Mobile and desktop development"/>
-<br/>
-<img src="https://img.shields.io/badge/03-DATABASE_SYSTEMS-FF2800?style=for-the-badge&labelColor=111111" height="42" alt="Database systems"/>
-<br/>
-<img src="https://img.shields.io/badge/04-UI%2FUX_DESIGN-FFD700?style=for-the-badge&labelColor=111111" height="42" alt="UI and UX design"/>
-<br/>
-<img src="https://img.shields.io/badge/05-GRAPHIC_DESIGN-FF2800?style=for-the-badge&labelColor=111111" height="42" alt="Graphic design"/>
-<br/>
-<img src="https://img.shields.io/badge/06-ANIMATION_%26_GAMES-FFD700?style=for-the-badge&labelColor=111111" height="42" alt="Animation and game development"/>
-<br/>
-<img src="https://img.shields.io/badge/07-TEAM_LEADERSHIP-FF2800?style=for-the-badge&labelColor=111111" height="42" alt="Team leadership"/>
-<br/>
-<img src="https://img.shields.io/badge/08-ANTIGRAVITY_IDE-FFD700?style=for-the-badge&labelColor=111111" height="42" alt="Antigravity IDE"/>
+<table align="center">
+<tr>
+<td align="center" height="70"><img src="https://img.shields.io/badge/01-WEB_DEVELOPMENT-FF2800?style=for-the-badge&labelColor=111111" width="330" alt="Web development"/></td>
+<td align="center" height="70"><img src="https://img.shields.io/badge/02-MOBILE_%26_DESKTOP-FFD700?style=for-the-badge&labelColor=111111" width="330" alt="Mobile and desktop development"/></td>
+</tr>
+<tr>
+<td align="center" height="70"><img src="https://img.shields.io/badge/03-DATABASE_SYSTEMS-FF2800?style=for-the-badge&labelColor=111111" width="330" alt="Database systems"/></td>
+<td align="center" height="70"><img src="https://img.shields.io/badge/04-UI%2FUX_DESIGN-FFD700?style=for-the-badge&labelColor=111111" width="330" alt="UI and UX design"/></td>
+</tr>
+<tr>
+<td align="center" height="70"><img src="https://img.shields.io/badge/05-GRAPHIC_DESIGN-FF2800?style=for-the-badge&labelColor=111111" width="330" alt="Graphic design"/></td>
+<td align="center" height="70"><img src="https://img.shields.io/badge/06-ANIMATION_%26_GAMES-FFD700?style=for-the-badge&labelColor=111111" width="330" alt="Animation and game development"/></td>
+</tr>
+<tr>
+<td align="center" height="70"><img src="https://img.shields.io/badge/07-TEAM_LEADERSHIP-FF2800?style=for-the-badge&labelColor=111111" width="330" alt="Team leadership"/></td>
+<td align="center" height="70"><img src="https://img.shields.io/badge/08-ANTIGRAVITY_IDE-FFD700?style=for-the-badge&labelColor=111111" width="330" alt="Antigravity IDE"/></td>
+</tr>
+</table>
 
 </div>
 
