@@ -6,7 +6,8 @@
 
 <div align="center">
 
-
+<!-- TOP ROSSO CORSA RACING STRIPE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=7" width="100%" alt="Rosso Corsa racing stripe"/>
 
 <!-- DRIVER TELEMETRY -->
 <img src="https://img.shields.io/badge/DRIVER-01-FF2800?style=for-the-badge&labelColor=080808" alt="Driver number 01"/>
@@ -16,18 +17,26 @@
 
 <br/><br/>
 
-<!-- ANIMATED TECHNICAL TYPOGRAPHY -->
+<!-- PERMANENT DRIVER NAME -->
+<h1>
+  <strong>JAYZER RELATOR</strong>
+</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=3" width="220" alt="Racing accent line"/>
+
+<!-- ANIMATED RACING QUOTES -->
 <a href="https://github.com/zereforuto">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&duration=2200&pause=650&color=FF2800&background=00000000&center=true&vCenter=true&width=750&lines=JAYZER+RELATOR+%2F%2F+DRIVER+01;FULL-STACK+ENGINEERING.;PRECISION.+POWER.+PERFORMANCE.;BUILT+TO+WIN." alt="Animated motorsport typography"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2200&pause=650&color=FF2800&background=00000000&center=true&vCenter=true&width=850&height=100&lines=PRECISION+OVER+EVERYTHING.;NO+LIMITS.+JUST+LAP+TIMES.;BUILT+FOR+SPEED.+ENGINEERED+TO+WIN.;HIT+THE+APEX.+OWN+THE+LINE.;FULL+THROTTLE.+ZERO+COMPROMISE.;EVERY+DETAIL+MATTERS.;OUTPACE+THE+EXPECTED.;PERFORMANCE+IS+NOT+OPTIONAL.;ENGINEERED+UNDER+PRESSURE.;CHASE+PERFECTION.+DELIVER+RESULTS.;STAY+FOCUSED.+KEEP+PUSHING.;INNOVATE.+EXECUTE.+DOMINATE.;FAST+MIND.+CLEAN+CODE.;TURN+VISION+INTO+VELOCITY.;THE+CHECKERED+FLAG+AWAITS." alt="Animated racing quotes"/>
 </a>
 
 <br/><br/>
 
 <!-- RACING DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=3" width="80%" alt="Racing divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=3" width="80%" alt="Rosso Corsa divider"/>
 
 <br/><br/>
 
+<!-- SPECIALTIES -->
 <img src="https://img.shields.io/badge/01-FULL--STACK%20ENGINEERING-FF2800?style=for-the-badge&labelColor=101010" alt="Full-stack engineering"/>
 <img src="https://img.shields.io/badge/02-LEADERSHIP-FFD700?style=for-the-badge&labelColor=101010" alt="Leadership"/>
 <img src="https://img.shields.io/badge/03-PERFORMANCE-FF2800?style=for-the-badge&labelColor=101010" alt="Performance"/>
@@ -126,9 +135,9 @@ PRECISION OVER SHORTCUTS
 <img src="https://skillicons.dev/icons?i=flutter,dart,electron" alt="Flutter, Dart and Electron"/>
 </p>
 
-- FLUTTER / DART — Cross-platform application development
-- ELECTRON — Desktop applications
-- NATIVE — Application development
+- **FLUTTER / DART** — Cross-platform application development
+- **ELECTRON** — Desktop applications
+- **NATIVE** — Application development
 
 ### DATABASES & BACKEND
 
@@ -136,9 +145,9 @@ PRECISION OVER SHORTCUTS
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,firebase" alt="Databases and backend platforms"/>
 </p>
 
-- MICROSOFT SQL SERVER / SSMS
-- MYSQL · POSTGRESQL · SQLITE
-- SUPABASE · FIREBASE
+- Microsoft SQL Server and SQL Server Management Studio (SSMS)
+- MySQL, PostgreSQL and SQLite
+- Supabase and Firebase
 
 ### DESIGN & DEVELOPMENT TOOLS
 
@@ -233,6 +242,6 @@ PRECISION OVER SHORTCUTS
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=6" width="100%" alt="Racing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=6" width="100%" alt="Rosso Corsa racing stripe"/>
 
 </div>
