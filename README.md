@@ -1,23 +1,27 @@
- <!--
-  JAYZER RELATOR | ROSSO CORSA
+<!--
+  JAYZER RELATOR | ROSSO CORSA EDITION
   GitHub: zereforuto
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=8" width="100%" alt="Black racing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,50:FFFFFF,100:FF2800&height=6" width="100%" alt="Racing stripe"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:8B0000,100:FF2800&height=200&section=header&text=JAYZER%20RELATOR&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20DEVELOPER&descSize=16&descAlignY=65&descColor=FFFFFF" width="100%" alt="Rosso Corsa racing header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080808,40:8B0000,100:FF2800&height=230&section=header&text=JAYZER%20RELATOR&fontSize=54&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%C2%B7%20ROSSO%20CORSA%20EDITION&descSize=15&descAlignY=65&descColor=FFD700" width="100%" alt="Rosso Corsa header"/>
+
+<a href="https://github.com/zereforuto">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3200&pause=900&color=FF2800&background=0B0B0D00&center=true&vCenter=true&width=640&lines=0+to+production+in+record+time;Full-Stack+%C2%B7+Mobile+%C2%B7+Desktop;Precision+over+shortcuts.;Always+improving." alt="Typing animation"/>
+</a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/01-FULL--STACK%20ENGINEERING-FF2800?style=for-the-badge&labelColor=111111" alt="Full-stack engineering"/>
-<img src="https://img.shields.io/badge/02-LEADERSHIP-FFFFFF?style=for-the-badge&labelColor=111111" alt="Leadership"/>
+<img src="https://img.shields.io/badge/02-LEADERSHIP-FFD700?style=for-the-badge&labelColor=111111" alt="Leadership"/>
 <img src="https://img.shields.io/badge/03-PERFORMANCE-FF2800?style=for-the-badge&labelColor=111111" alt="Performance"/>
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/EXPLORE%20MY%20GARAGE-111111?style=for-the-badge&logo=github&logoColor=FF2800)](https://github.com/zereforuto?tab=repositories)
+[![GitHub](https://img.shields.io/badge/ENTER%20THE%20GARAGE-111111?style=for-the-badge&logo=github&logoColor=FF2800)](https://github.com/zereforuto?tab=repositories)
 
 **ENGINEERED WITH PRECISION. DRIVEN BY CREATIVITY.**
 
@@ -37,37 +41,32 @@ I'm a full-stack developer who enjoys engineering useful applications, designing
 
 I bring strong leadership skills, a collaborative mindset, and a focus on continuous improvement. I aim to build solutions that are practical, polished, and reliable.
 
-- Full-stack web development
-- Cross-platform mobile and desktop apps
-- Database design and integration
-- UI/UX and visual design
-- Team leadership and problem-solving
-- AI-assisted development with Antigravity IDE
+- 🏁 Full-stack web development
+- 📱 Cross-platform mobile and desktop apps
+- 🗄️ Database design and integration
+- 🎨 UI/UX and visual design
+- 🤝 Team leadership and problem-solving
+- ⚡ AI-assisted development with Antigravity IDE
 
 </td>
 <td width="35%" valign="top">
 
-### RACE DATA
+### 🏎️ RACE DATA
 
 **ROLE**
-
 Full-Stack Developer
 
 **SPECIALTY**
-
 Web · Mobile · Desktop
 
 **LEADERSHIP**
-
 Teamwork & Coordination
 
 **PHILOSOPHY**
-
 Precision over shortcuts.
 
 **STATUS**
-
-Always improving.
+🟢 Always improving.
 
 </td>
 </tr>
@@ -95,8 +94,8 @@ Always improving.
 <img src="https://skillicons.dev/icons?i=flutter,dart,electron" alt="Flutter, Dart and Electron"/>
 </p>
 
-- Flutter and Dart — Cross-platform applications
-- Electron — Desktop applications
+- Flutter and Dart: cross-platform applications
+- Electron: desktop applications
 - Native application development
 
 ### Databases & Services
@@ -114,7 +113,7 @@ Always improving.
 <p>
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio" alt="Design and development tools"/>
 <img src="https://img.shields.io/badge/ANTIGRAVITY-IDE-FF2800?style=flat-square&labelColor=111111" alt="Antigravity IDE"/>
-<img src="https://img.shields.io/badge/CANVA-DESIGN-FFFFFF?style=flat-square&labelColor=111111" alt="Canva"/>
+<img src="https://img.shields.io/badge/CANVA-DESIGN-FFD700?style=flat-square&labelColor=111111" alt="Canva"/>
 <img src="https://img.shields.io/badge/MICROSOFT-OFFICE-FF2800?style=flat-square&labelColor=111111" alt="Microsoft Office"/>
 </p>
 
@@ -130,7 +129,7 @@ Always improving.
 
 </div>
 
-| Build category | Engineering stack |
+| 🏎️ Build category | ⚙️ Engineering stack |
 |:--|:--|
 | Web applications | React, Next.js, TypeScript |
 | Mobile applications | Flutter, Dart |
@@ -148,11 +147,15 @@ Always improving.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zereforuto&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=FF2800&text_color=FFFFFF&icon_color=FF2800" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zereforuto&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=FF2800&text_color=FFFFFF" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zereforuto&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=FF2800&text_color=FFFFFF&icon_color=FFD700" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zereforuto&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=FF2800&text_color=FFFFFF" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com/?user=zereforuto&theme=dark&hide_border=true&background=0B0B0D&ring=FF2800&fire=FF2800&currStreakLabel=FF2800&sideLabels=FFFFFF&dates=999999" alt="GitHub contribution streak"/>
+<img width="95%" src="https://streak-stats.demolab.com/?user=zereforuto&theme=dark&hide_border=true&background=0B0B0D&ring=FF2800&fire=FFD700&currStreakLabel=FF2800&sideLabels=FFFFFF&dates=999999" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=zereforuto&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
 
@@ -161,11 +164,11 @@ Always improving.
 ## `05 / NEXT LAPS`
 
 ```text
-[ IN PROGRESS ]  Leveling up full-stack engineering
-[ IN PROGRESS ]  Building practical database systems
-[ IN PROGRESS ]  Exploring mobile and desktop development
-[ IN PROGRESS ]  Refining UI/UX and visual design
-[ TARGET       ]  Shipping stronger portfolio projects
+[ LAP 1 · IN PROGRESS ]  Leveling up full-stack engineering
+[ LAP 2 · IN PROGRESS ]  Building practical database systems
+[ LAP 3 · IN PROGRESS ]  Exploring mobile and desktop development
+[ LAP 4 · IN PROGRESS ]  Refining UI/UX and visual design
+[ FINISH · TARGET     ]  Shipping stronger portfolio projects
 ```
 
 ---
@@ -184,6 +187,8 @@ Always improving.
 
 **BUILT TO CREATE. DRIVEN TO IMPROVE.**
 
-<sub>One project at a time. One commit at a time.</sub>
+<sub>One project at a time. One commit at a time. 🏁</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,50:FFFFFF,100:FF2800&height=6" width="100%" alt="Racing stripe"/>
 
 </div>
