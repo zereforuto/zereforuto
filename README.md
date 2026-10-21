@@ -1,4 +1,3 @@
-
 <!--
   JAYZER RELATOR | ROSSO CORSA RACING EDITION
   GitHub: zereforuto
@@ -80,9 +79,15 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 <br/>
 
-<img src="https://img.shields.io/badge/05-TEAM_LEADERSHIP-FF2800?style=flat&labelColor=111111" alt="Team leadership"/>
+<img src="https://img.shields.io/badge/05-GRAPHIC_DESIGN-FF2800?style=flat&labelColor=111111" alt="Graphic design"/>
 &nbsp;
-<img src="https://img.shields.io/badge/06-ANTIGRAVITY_IDE-FFD700?style=flat&labelColor=111111" alt="Antigravity IDE"/>
+<img src="https://img.shields.io/badge/06-ANIMATION_%26_GAMES-FFD700?style=flat&labelColor=111111" alt="Animation and game development"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/07-TEAM_LEADERSHIP-FF2800?style=flat&labelColor=111111" alt="Team leadership"/>
+&nbsp;
+<img src="https://img.shields.io/badge/08-ANTIGRAVITY_IDE-FFD700?style=flat&labelColor=111111" alt="Antigravity IDE"/>
 
 </div>
 
@@ -188,7 +193,7 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 <br/>
 
-### <div align="center">DESIGN & DEVELOPMENT TOOLS</div>
+### <div align="center">DESIGN & GRAPHIC EDITING</div>
 
 <div align="center">
 
@@ -197,6 +202,30 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 <img src="https://img.shields.io/badge/CANVA-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva"/>
 
 <br/>
+
+<img src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PHOTOPEA-18A497?style=flat&logo=photopea&logoColor=white" alt="Photopea"/>
+
+</div>
+
+<br/>
+
+### <div align="center">ANIMATION & GAME DEVELOPMENT</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ADOBE_ANIMATE-9999FF?style=flat&logo=adobeanimate&logoColor=111111" alt="Adobe Animate"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CONSTRUCT_3-00A8E8?style=flat&labelColor=111111" alt="Construct 3"/>
+
+</div>
+
+<br/>
+
+### <div align="center">DEVELOPMENT TOOLS & PRODUCTIVITY</div>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 &nbsp;
@@ -243,6 +272,10 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 | Desktop applications | Electron · Native development |
 | Programming projects | Python · Java · C++ |
 | UI/UX design | Figma · Canva |
+| Graphic design | Adobe Photoshop · Photopea |
+| Animation | Adobe Animate |
+| Game development | Construct 3 |
+| Productivity | Microsoft Office |
 
 </div>
 
@@ -304,7 +337,11 @@ I bring strong leadership, a collaborative mindset, and a focus on continuous im
 
 <br/>
 
-<img src="https://img.shields.io/badge/LAP_05-SHIP_STRONGER_PROJECTS-FF2800?style=flat&labelColor=111111" alt="Portfolio projects"/>
+<img src="https://img.shields.io/badge/LAP_05-LEVEL_UP_GRAPHIC_DESIGN_%26_ANIMATION-FF2800?style=flat&labelColor=111111" alt="Graphic design and animation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LAP_06-SHIP_STRONGER_PROJECTS-FFD700?style=flat&labelColor=111111" alt="Portfolio projects"/>
 
 </div>
 
