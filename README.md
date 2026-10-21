@@ -1,18 +1,18 @@
 
 <!--
-  JAYZER RELATOR | WORLD CHAMPION EDITION
+  JAYZER RELATOR | ROSSO CORSA WORLD CHAMPION EDITION
   GitHub: zereforuto
 -->
 
 <div align="center">
 
-<!-- ROSSO CORSA TOP STRIPE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=7" width="100%" alt="Rosso Corsa stripe"/>
+<!-- TOP RACING STRIPE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=7" width="100%" alt="Rosso Corsa racing stripe"/>
 
-<!-- MAIN RACING HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,30:250000,65:850000,100:FF2800&height=185&section=header&text=JAYZER%20RELATOR&fontSize=58&fontColor=FFFFFF&fontAlignY=43&font=Orbitron" width="100%" alt="Jayzer Relator racing header"/>
+<!-- MAIN DRIVER WORDMARK -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,25:220000,60:780000,100:FF2800&height=205&section=header&text=JAYZER%20RELATOR&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=DRIVER%20NO.%2001%20%2F%2F%20WORLD%20CHAMPION&descSize=15&descAlignY=76&descColor=FFD700" width="100%" alt="Jayzer Relator racing driver wordmark"/>
 
-<!-- DRIVER NUMBER / TELEMETRY -->
+<!-- DRIVER TELEMETRY -->
 <img src="https://img.shields.io/badge/DRIVER-01-FF2800?style=for-the-badge&labelColor=080808" alt="Driver number 01"/>
 <img src="https://img.shields.io/badge/STATUS-WORLD%20CHAMPION-FFD700?style=for-the-badge&labelColor=080808" alt="World champion"/>
 <img src="https://img.shields.io/badge/SPEED-350%20KM%2FH-FF2800?style=for-the-badge&labelColor=080808" alt="350 kilometers per hour"/>
@@ -20,13 +20,14 @@
 
 <br/><br/>
 
-<!-- TECHNICAL RACING TYPOGRAPHY -->
+<!-- ANIMATED TECHNICAL TYPOGRAPHY -->
 <a href="https://github.com/zereforuto">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=19&duration=2200&pause=700&color=FF2800&background=00000000&center=true&vCenter=true&width=720&lines=FULL-STACK+DEVELOPER;PRECISION+ENGINEERED.;BUILT+FOR+PERFORMANCE.;ALWAYS+PUSHING+THE+LIMITS." alt="Animated racing tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=21&duration=2200&pause=650&color=FF2800&background=00000000&center=true&vCenter=true&width=750&lines=JAYZER+RELATOR+%2F%2F+DRIVER+01;FULL-STACK+ENGINEERING.;PRECISION.+POWER.+PERFORMANCE.;BUILT+TO+WIN." alt="Animated motorsport typography"/>
 </a>
 
 <br/><br/>
 
+<!-- RACING DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=3" width="80%" alt="Racing divider"/>
 
 <br/><br/>
@@ -47,7 +48,7 @@
 
 <br/>
 
-<sub>ROSSO CORSA · WORLD CHAMPION · FULL THROTTLE</sub>
+<sub>ROSSO CORSA · DRIVER 01 · FULL THROTTLE</sub>
 
 </div>
 
