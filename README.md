@@ -1,19 +1,17 @@
 
 <!--
-  JAYZER RELATOR | ROSSO CORSA WORLD CHAMPION
+  JAYZER RELATOR | ROSSO CORSA EDITION
   GitHub: zereforuto
-  Theme: Ferrari-inspired Rosso Corsa
-  Typography: Orbitron + Shields.io for-the-badge
+  Theme: Ferrari-inspired racing aesthetic
+  Typography: Orbitron headings + for-the-badge labels
 -->
 
 <div align="center">
 
-<!-- TOP RACING STRIPE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=7" width="100%" alt="Racing stripe"/>
 
 <br/>
 
-<!-- DRIVER TELEMETRY -->
 <img src="https://img.shields.io/badge/DRIVER-01-FF2800?style=for-the-badge&labelColor=080808" alt="Driver 01"/>
 <img src="https://img.shields.io/badge/STATUS-WORLD%20CHAMPION-FFD700?style=for-the-badge&labelColor=080808" alt="World champion"/>
 <img src="https://img.shields.io/badge/SPEED-350%20KM%2FH-FF2800?style=for-the-badge&labelColor=080808" alt="Speed 350 km/h"/>
@@ -60,7 +58,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=800&height=50&lines=01+%2F+DRIVER+PROFILE" alt="Driver profile"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/JAYZER_RELATOR-FF2800?style=for-the-badge&labelColor=080808" alt="Jayzer Relator"/>
 <img src="https://img.shields.io/badge/FULL--STACK_DEVELOPER-FF2800?style=for-the-badge&labelColor=080808" alt="Full-stack developer"/>
@@ -69,19 +67,17 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/BUILDING-USEFUL_APPLICATIONS-FF2800?style=for-the-badge&labelColor=101010" alt="Building useful applications"/>
-<br/>
-<img src="https://img.shields.io/badge/DESIGNING-INTUITIVE_INTERFACES-FF2800?style=for-the-badge&labelColor=101010" alt="Designing intuitive interfaces"/>
-<br/>
-<img src="https://img.shields.io/badge/TRANSFORMING-IDEAS_INTO_SOFTWARE-FF2800?style=for-the-badge&labelColor=101010" alt="Turning ideas into software"/>
-<br/>
-<img src="https://img.shields.io/badge/LEADERSHIP-COLLABORATION_%26_COORDINATION-FFD700?style=for-the-badge&labelColor=101010" alt="Leadership and collaboration"/>
-<br/>
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_IMPROVEMENT-FF2800?style=for-the-badge&labelColor=101010" alt="Continuous improvement"/>
-<br/>
-<img src="https://img.shields.io/badge/STANDARD-PRACTICAL_%7C_POLISHED_%7C_RELIABLE-FFD700?style=for-the-badge&labelColor=101010" alt="Practical polished reliable software"/>
-
 <br/><br/>
-
+<img src="https://img.shields.io/badge/DESIGNING-INTUITIVE_INTERFACES-FF2800?style=for-the-badge&labelColor=101010" alt="Designing intuitive interfaces"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/TRANSFORMING-IDEAS_INTO_SOFTWARE-FF2800?style=for-the-badge&labelColor=101010" alt="Turning ideas into software"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/LEADERSHIP-COLLABORATION_%26_COORDINATION-FFD700?style=for-the-badge&labelColor=101010" alt="Leadership and collaboration"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_IMPROVEMENT-FF2800?style=for-the-badge&labelColor=101010" alt="Continuous improvement"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/STANDARD-PRACTICAL_%7C_POLISHED_%7C_RELIABLE-FFD700?style=for-the-badge&labelColor=101010" alt="Practical polished reliable software"/>
+<br/><br/>
 <img src="https://img.shields.io/badge/AI--ASSISTED_DEVELOPMENT-ANTIGRAVITY_IDE-FF2800?style=for-the-badge&labelColor=101010" alt="Antigravity IDE"/>
 
 </div>
@@ -90,14 +86,14 @@
 
 <!-- 02 / ENGINE AND TECHNOLOGY -->
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=50&lines=02+%2F+ENGINE+%26+TECHNOLOGY" alt="Engine and technology"/>
-
 </div>
 
-### FRONTEND ENGINEERING
-
+<!-- FRONTEND ENGINEERING -->
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=700&height=45&lines=01+%2F+FRONTEND+ENGINEERING" alt="Frontend engineering"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/HTML5-FF2800?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=101010" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-FF2800?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=101010" alt="CSS3"/>
@@ -110,34 +106,43 @@
 <img src="https://img.shields.io/badge/NEXT.JS-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=101010" alt="Next.js"/>
 <img src="https://img.shields.io/badge/VITE-FFD700?style=for-the-badge&logo=vite&logoColor=000000&labelColor=101010" alt="Vite"/>
 <img src="https://img.shields.io/badge/TAILWIND_CSS-FF2800?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=101010" alt="Tailwind CSS"/>
-
 </div>
 
-### PROGRAMMING LANGUAGES
+<br/>
 
+<!-- PROGRAMMING LANGUAGES -->
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=700&height=45&lines=02+%2F+PROGRAMMING+LANGUAGES" alt="Programming languages"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/PYTHON-FFD700?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=101010" alt="Python"/>
 <img src="https://img.shields.io/badge/JAVA-FF2800?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=101010" alt="Java"/>
 <img src="https://img.shields.io/badge/C%2B%2B-FF2800?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF&labelColor=101010" alt="C++"/>
 <img src="https://img.shields.io/badge/PHP-FFD700?style=for-the-badge&logo=php&logoColor=FFD700&labelColor=101010" alt="PHP"/>
-
 </div>
 
-### MOBILE & DESKTOP SYSTEMS
+<br/>
 
+<!-- MOBILE AND DESKTOP SYSTEMS -->
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=800&height=45&lines=03+%2F+MOBILE+%26+DESKTOP+SYSTEMS" alt="Mobile and desktop systems"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/FLUTTER-FF2800?style=for-the-badge&logo=flutter&logoColor=FFFFFF&labelColor=101010" alt="Flutter"/>
 <img src="https://img.shields.io/badge/DART-FF2800?style=for-the-badge&logo=dart&logoColor=FFFFFF&labelColor=101010" alt="Dart"/>
 <img src="https://img.shields.io/badge/ELECTRON-FFD700?style=for-the-badge&logo=electron&logoColor=FFD700&labelColor=101010" alt="Electron"/>
 <img src="https://img.shields.io/badge/NATIVE_APPLICATIONS-FF2800?style=for-the-badge&labelColor=101010" alt="Native applications"/>
-
 </div>
 
-### DATABASES & BACKEND
+<br/>
 
+<!-- DATABASES AND BACKEND -->
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=750&height=45&lines=04+%2F+DATABASES+%26+BACKEND" alt="Databases and backend"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/MYSQL-FF2800?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=101010" alt="MySQL"/>
 <img src="https://img.shields.io/badge/POSTGRESQL-FF2800?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=101010" alt="PostgreSQL"/>
@@ -152,12 +157,15 @@
 
 <img src="https://img.shields.io/badge/SUPABASE-FF2800?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=101010" alt="Supabase"/>
 <img src="https://img.shields.io/badge/FIREBASE-FFD700?style=for-the-badge&logo=firebase&logoColor=FFD700&labelColor=101010" alt="Firebase"/>
-
 </div>
 
-### DESIGN & DEVELOPMENT TOOLS
+<br/>
 
+<!-- DESIGN AND DEVELOPMENT TOOLS -->
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=45&lines=05+%2F+DESIGN+%26+DEVELOPMENT+TOOLS" alt="Design and development tools"/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/FIGMA-FF2800?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=101010" alt="Figma"/>
 <img src="https://img.shields.io/badge/CANVA-FFD700?style=for-the-badge&logo=canva&logoColor=FFD700&labelColor=101010" alt="Canva"/>
@@ -173,7 +181,6 @@
 
 <img src="https://img.shields.io/badge/ANTIGRAVITY-IDE-FF2800?style=for-the-badge&labelColor=101010" alt="Antigravity IDE"/>
 <img src="https://img.shields.io/badge/MICROSOFT_OFFICE-FFD700?style=for-the-badge&labelColor=101010" alt="Microsoft Office"/>
-
 </div>
 
 ---
@@ -203,7 +210,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/PROGRAMMING-PYTHON_%7C_JAVA_%7C_C%2B%2B-FF2800?style=for-the-badge&labelColor=101010" alt="Programming projects"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-FIGMA_%7C_CANVA-FFD700?style=for-the-badge&labelColor=101010" alt="UI UX design"/>
+<img src="https://img.shields.io/badge/UI%2FUX_DESIGN-FIGMA_%7C_CANVA-FFD700?style=for-the-badge&labelColor=101010" alt="UI/UX design"/>
 
 <br/><br/>
 
