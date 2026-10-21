@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<!-- TOP ROSSO CORSA RACING STRIPE -->
+<!-- TOP RACING STRIPE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=7" width="100%" alt="Rosso Corsa racing stripe"/>
 
 <!-- DRIVER TELEMETRY -->
@@ -18,15 +18,13 @@
 <br/><br/>
 
 <!-- PERMANENT DRIVER NAME -->
-<h1>
-  <strong>JAYZER RELATOR</strong>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=1&pause=999999&color=FF2800&background=00000000&center=true&vCenter=true&repeat=false&width=850&height=65&lines=JAYZER+RELATOR" alt="Jayzer Relator in Rosso Corsa red"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=3" width="220" alt="Racing accent line"/>
 
 <!-- ANIMATED RACING QUOTES -->
 <a href="https://github.com/zereforuto">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2200&pause=650&color=FF2800&background=00000000&center=true&vCenter=true&width=850&height=100&lines=PRECISION+OVER+EVERYTHING.;NO+LIMITS.+JUST+LAP+TIMES.;BUILT+FOR+SPEED.+ENGINEERED+TO+WIN.;HIT+THE+APEX.+OWN+THE+LINE.;FULL+THROTTLE.+ZERO+COMPROMISE.;EVERY+DETAIL+MATTERS.;OUTPACE+THE+EXPECTED.;PERFORMANCE+IS+NOT+OPTIONAL.;ENGINEERED+UNDER+PRESSURE.;CHASE+PERFECTION.+DELIVER+RESULTS.;STAY+FOCUSED.+KEEP+PUSHING.;INNOVATE.+EXECUTE.+DOMINATE.;FAST+MIND.+CLEAN+CODE.;TURN+VISION+INTO+VELOCITY.;THE+CHECKERED+FLAG+AWAITS." alt="Animated racing quotes"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2200&pause=650&color=FF2800&background=00000000&center=true&vCenter=true&width=850&height=100&lines=PRECISION+OVER+EVERYTHING.;NO+LIMITS.+JUST+LAP+TIMES.;BUILT+FOR+SPEED.+ENGINEERED+TO+WIN.;HIT+THE+APEX.+OWN+THE+LINE.;FULL+THROTTLE.+ZERO+COMPROMISE.;EVERY+DETAIL+MATTERS.;OUTPACE+THE+EXPECTED.;ENGINEERED+UNDER+PRESSURE.;CHASE+PERFECTION.+DELIVER+RESULTS.;STAY+FOCUSED.+KEEP+PUSHING.;INNOVATE.+EXECUTE.+DOMINATE.;FAST+MIND.+CLEAN+CODE.;TURN+VISION+INTO+VELOCITY.;THE+CHECKERED+FLAG+AWAITS." alt="Animated Rosso Corsa racing quotes"/>
 </a>
 
 <br/><br/>
