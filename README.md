@@ -90,8 +90,6 @@ I bring strong leadership skills, a collaborative mindset, and a focus on contin
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DRIVER_NO.-01-FF2800?style=for-the-badge&labelColor=080808" alt="Driver number 01"/>
-<img src="https://img.shields.io/badge/STATUS-WORLD_CHAMPION-FFD700?style=for-the-badge&labelColor=080808" alt="World champion"/>
 
 <br/>
 
