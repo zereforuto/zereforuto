@@ -5,39 +5,53 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=8" width="100%" alt="Ferrari red racing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2800,60:B30000,100:080808&height=200&section=header&reversal=false&fontAlignY=40" width="100%" alt="Rosso Corsa header wave"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=4" width="100%" alt="Gold racing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2" width="100%" alt="White racing stripe"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=10" width="100%" alt="Ferrari red racing stripe"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%E2%97%A4_SCUDERIA_DEVELOPER_%E2%97%A2-111111?style=for-the-badge&labelColor=FF2800" height="40" alt="Scuderia developer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=33&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=850&height=65&lines=JAYZER+RELATOR" alt="Jayzer Relator"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=72&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=1100&height=130&lines=JAYZER+RELATOR" alt="Jayzer Relator"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=35&lines=FULL-STACK+DEVELOPER" alt="Full-stack developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=FULL-STACK+DEVELOPER" alt="Full-stack developer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&repeat=false&width=1000&height=40&lines=WEB+%C2%B7+MOBILE+%C2%B7+DESKTOP+%C2%B7+DATABASES+%C2%B7+UI%2FUX" alt="Specialties"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/DRIVER-01-FF2800?style=for-the-badge&labelColor=111111" height="40" alt="Driver 01"/>
+<img src="https://img.shields.io/badge/DRIVER-01-FF2800?style=for-the-badge&labelColor=111111" height="64" alt="Driver 01"/>
 &nbsp;
-<img src="https://img.shields.io/badge/WORLD_CHAMPION-FFD700?style=for-the-badge&labelColor=111111" height="40" alt="World champion"/>
+<img src="https://img.shields.io/badge/WORLD_CHAMPION-FFD700?style=for-the-badge&labelColor=111111" height="64" alt="World champion"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/FULL_THROTTLE-FF2800?style=for-the-badge&labelColor=111111" height="40" alt="Full throttle"/>
+<img src="https://img.shields.io/badge/FULL_THROTTLE-FF2800?style=for-the-badge&labelColor=111111" height="64" alt="Full throttle"/>
 &nbsp;
-<img src="https://img.shields.io/badge/DRS-OPEN-FFD700?style=for-the-badge&labelColor=111111" height="40" alt="DRS open"/>
+<img src="https://img.shields.io/badge/DRS-OPEN-FFD700?style=for-the-badge&labelColor=111111" height="64" alt="DRS open"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,100:FFD700&height=3" width="60%" alt="Red to gold divider"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2400&pause=600&color=FF2800&center=true&vCenter=true&width=850&height=40&lines=NO+LIMITS.+JUST+LAP+TIMES.;PRECISION+OVER+SHORTCUTS.;HIT+THE+APEX.+OWN+THE+LINE.;BUILT+FOR+SPEED.+ENGINEERED+TO+WIN.;FAST+MIND.+CLEAN+CODE.;EVERY+DETAIL+MATTERS.;INNOVATE.+EXECUTE.+DOMINATE.;FULL+THROTTLE.+ZERO+COMPROMISE.;CHASE+PERFECTION.+DELIVER+RESULTS." alt="Animated racing quotes"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2400&pause=700&color=FF2800&center=true&vCenter=true&width=1100&height=60&lines=NO+LIMITS.+JUST+LAP+TIMES.;PRECISION+OVER+SHORTCUTS.;HIT+THE+APEX.+OWN+THE+LINE.;BUILT+FOR+SPEED.+ENGINEERED+TO+WIN.;FAST+MIND.+CLEAN+CODE.;EVERY+DETAIL+MATTERS.;INNOVATE.+EXECUTE.+DOMINATE.;FULL+THROTTLE.+ZERO+COMPROMISE.;CHASE+PERFECTION.+DELIVER+RESULTS." alt="Animated racing quotes"/>
 
 <br/>
 
 <a href="https://github.com/zereforuto?tab=repositories">
-<img src="https://img.shields.io/badge/ENTER_THE_GARAGE-FF2800?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" height="44" alt="Enter the garage"/>
+<img src="https://img.shields.io/badge/ENTER_THE_GARAGE-FF2800?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" height="68" alt="Enter the garage"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=4" width="65%" alt="Red racing divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=6" width="80%" alt="Red racing divider"/>
 
 </div>
 
