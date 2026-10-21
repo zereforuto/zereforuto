@@ -1,60 +1,62 @@
-
+ 
 <!--
-  JAYZER RELATOR | CYBERPUNK GITHUB PORTFOLIO
+  JAYZER RELATOR | FERRARI-INSPIRED GITHUB PORTFOLIO
   GitHub: https://github.com/zereforuto
+  Theme: Rosso Corsa Red | Matte Black | Racing White
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:4B0082,100:00D9FF&height=220&section=header&text=JAYZER%20RELATOR&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20CODE%20%2B%20CREATIVITY&descAlignY=60&descSize=13" width="100%" alt="Cyberpunk portfolio banner"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Initializing+Developer+Profile...;Building+Modern+Web+Applications;Full-Stack+Development+%7C+Database+Systems;Turning+Ideas+Into+Digital+Experiences" alt="Animated developer introduction"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:B80000,100:FF2800&height=220&section=header&text=JAYZER%20RELATOR&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20BUILT%20FOR%20PERFORMANCE&descAlignY=60&descSize=13" width="100%" alt="Ferrari-inspired red and black racing banner"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-zereforuto-0D0D18?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/zereforuto)
-[![Profile Views](https://komarev.com/ghpvc/?username=zereforuto&style=for-the-badge&color=7000FF&label=PROFILE+VIEWS)](https://github.com/zereforuto)
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF2800&center=true&vCenter=true&width=700&lines=FULL-STACK+DEVELOPER;DESIGN.+DEVELOP.+DELIVER.;LEADERSHIP+ON+AND+OFF+THE+TRACK;TURNING+IDEAS+INTO+REALITY" alt="Animated developer introduction"/>
+</a>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-ZEREFORUTO-111111?style=for-the-badge&logo=github&logoColor=FF2800)](https://github.com/zereforuto)
+[![Profile Views](https://komarev.com/ghpvc/?username=zereforuto&style=for-the-badge&color=FF2800&label=PROFILE%20VIEWS)](https://github.com/zereforuto)
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20DEVELOPMENT-FF2800?style=flat-square&labelColor=111111" alt="Full-stack development"/>
+<img src="https://img.shields.io/badge/MINDSET-PERFORMANCE%20%26%20PRECISION-FFFFFF?style=flat-square&labelColor=111111" alt="Performance and precision"/>
 
 </div>
 
 ---
 
-## `01 // WHO AM I?`
-
-
-## `01 // WHO AM I?`
+## `01 // DRIVER PROFILE`
 
 ```text
-USER       : Jayzer Relator
+NAME       : Jayzer Relator
+CALLSIGN   : ZEREFORUTO
 ROLE       : Full-Stack & Cross-Platform Developer
+SPECIALTY  : Web / Mobile / Desktop / Databases
 LEADERSHIP : Team Leadership & Collaboration
-INTERESTS  : Web / Mobile / Desktop / UI-UX
-MINDSET    : Lead. Build. Design. Innovate.
-STATUS     : Always learning, always creating.
+MINDSET    : Precision. Performance. Progress.
+MISSION    : Build. Improve. Deliver.
 ```
 
-I'm a developer passionate about building modern applications,
-solving problems, and turning ideas into practical digital
-experiences.
+I'm a developer passionate about building modern applications, solving problems, and transforming ideas into practical digital experiences.
 
-Beyond coding, I bring strong leadership skills, enjoy
-collaborating with others, and value teamwork, communication,
-and getting things done.
+I combine technical skills, creativity, and strong leadership abilities to work effectively with others, coordinate tasks, and help teams move toward their goals.
 
-- 💻 **Full-Stack Development:** Frontend, backend, and APIs.
+- 🏎️ **Full-Stack Development:** Frontend, backend, and API integration.
 - 📱 **Mobile Development:** Flutter and Dart.
 - 🖥️ **Desktop Development:** Electron and native applications.
-- 🗄️ **Database Development:** SQL databases and backend services.
-- 🎨 **UI/UX Design:** User-friendly interfaces and visual design.
-- 👑 **Leadership:** Team coordination, collaboration, and problem-solving.
-- 🤖 **AI-Assisted Development:** Antigravity IDE and modern development workflows.
-- 🚀 **Mission:** Build useful software and help teams turn ideas into reality.
+- 🗄️ **Database Engineering:** SQL Server and relational databases.
+- 🎨 **UI/UX Design:** Clean, intuitive, and responsive interfaces.
+- 👑 **Leadership:** Team coordination, communication, and problem-solving.
+- 🤖 **AI-Assisted Coding:** Antigravity IDE and modern development workflows.
+- 🏁 **Mission:** Deliver quality software with performance, precision, and purpose.
 
 ---
 
-## `02 // TECH ARSENAL`
+## `02 // THE ENGINE ROOM`
 
 ### 🌐 Frontend Development
 
@@ -62,11 +64,30 @@ and getting things done.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite and Tailwind CSS"/>
 </p>
 
-### ⚙️ Programming Languages & Backend
+### ⚙️ Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,php" alt="Python, Java, C++ and PHP"/>
 </p>
+
+### 📱 Mobile & Cross-Platform Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart"/>
+</p>
+
+- Flutter — Cross-platform mobile applications
+- Dart — Application development with Flutter
+
+### 🖥️ Desktop & Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,react,ts" alt="Electron, React and TypeScript"/>
+</p>
+
+- Electron desktop applications
+- Native application development
+- Cross-platform application development
 
 ### 🗄️ Databases & Backend Platforms
 
@@ -82,25 +103,6 @@ and getting things done.
 - Supabase
 - Firebase
 
-### 🖥️ Application Development
-
-### 📱 Mobile & Cross-Platform Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart"/>
-</p>
-
-- Flutter — Cross-platform mobile application development
-- Dart — Application programming with Flutter
-
-<p>
-  <img src="https://skillicons.dev/icons?i=electron,react,ts" alt="Electron, React and TypeScript"/>
-</p>
-
-- Native application development
-- Electron desktop applications
-- Cross-platform application development
-
 ### 🎨 Design & Productivity
 
 <p>
@@ -108,96 +110,97 @@ and getting things done.
 </p>
 
 - **Figma** — UI/UX design, wireframes, and prototyping
-- **Canva** — Graphics, presentations, and visual content
+- **Canva** — Graphics and visual content
 - **Microsoft Office** — Word, Excel, and PowerPoint
 
-### 🛠️ Tools & Workflow
-
-### 🤖 AI-Assisted Development & IDEs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="Development environments"/>
-  <img src="https://img.shields.io/badge/Antigravity-IDE-7C3AED?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE"/>
-</p>
-
-- Antigravity IDE — AI-assisted development and coding workflows
-- Visual Studio Code
-- Visual Studio
-- Git and GitHub
+### 🛠️ Tools, IDEs & Workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Git, GitHub, Visual Studio Code and Visual Studio"/>
 </p>
 
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-AI--Assisted_Development-FF2800?style=for-the-badge&labelColor=111111)
+
+- Antigravity IDE
+- Visual Studio Code
+- Visual Studio
+- Git and GitHub
+
 ---
 
-## `03 // FEATURED PROJECTS`
+## `03 // RACE RECORD — PROJECTS`
 
 <div align="center">
 
 <a href="https://github.com/zereforuto?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-FF2800?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub repositories"/>
 </a>
 
 </div>
 
-Check out my repositories for projects involving:
+I work on projects that combine practical functionality, thoughtful design, and reliable technology.
 
 | Project Category | Technologies |
 |:--|:--|
 | 🌐 Web Applications | React, Next.js, JavaScript, TypeScript |
 | 🎨 Responsive Interfaces | HTML, CSS, Tailwind CSS, Figma |
-| 🗄️ Database Systems | MySQL, SQL Server, PostgreSQL, SQLite |
+| 📱 Mobile Applications | Flutter, Dart |
+| 🗄️ Database Systems | SQL Server, MySQL, PostgreSQL, SQLite |
 | 🔥 Backend Integration | PHP, Supabase, Firebase |
 | 🖥️ Desktop Applications | Electron, TypeScript |
 | 🧠 Programming Projects | Python, Java, C++ |
 
-> Replace this section with links to your strongest completed projects as you build your portfolio.
+**Featured projects:** [Explore my repositories](https://github.com/zereforuto?tab=repositories)
+
+> Add links to your best completed projects here to showcase your work, technical skills, and development experience.
 
 ---
 
-## `04 // GITHUB SYSTEM STATUS`
+## `04 // TELEMETRY — GITHUB STATISTICS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zereforuto&show_icons=true&hide_border=true&bg_color=050510&title_color=BD00FF&text_color=E0E0FF&icon_color=00D9FF&ring_color=7000FF" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zereforuto&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF2800&text_color=FFFFFF&icon_color=FF2800&ring_color=FF2800" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zereforuto&layout=compact&hide_border=true&bg_color=050510&title_color=BD00FF&text_color=E0E0FF" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zereforuto&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF2800&text_color=FFFFFF" alt="Most used programming languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=zereforuto&theme=transparent&hide_border=true&background=050510&ring=7000FF&fire=00D9FF&currStreakLabel=BD00FF&sideLabels=E0E0FF&dates=8888AA" alt="GitHub contribution streak"/>
+<img width="95%" src="https://streak-stats.demolab.com/?user=zereforuto&theme=dark&hide_border=true&background=0D0D0D&ring=FF2800&fire=FF2800&currStreakLabel=FF2800&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## `05 // CURRENT MISSION`
+## `05 // CURRENT RACE STRATEGY`
 
 ```text
 [ ACTIVE ]  Improving full-stack development skills
-[ ACTIVE ]  Building practical database-driven systems
-[ ACTIVE ]  Exploring modern web and desktop technologies
+[ ACTIVE ]  Building database-driven applications
+[ ACTIVE ]  Exploring web, mobile, and desktop technologies
 [ ACTIVE ]  Improving UI/UX and visual design
-[ NEXT    ]  Creating more complete portfolio projects
+[ ACTIVE ]  Developing leadership and teamwork skills
+[ NEXT   ]  Shipping more complete portfolio projects
 ```
 
 ---
 
-## `06 // CONNECT WITH ME`
+## `06 // JOIN THE GRID`
 
 <div align="center">
 
+### Every commit is another lap. Every project is another milestone.
+
 <a href="https://github.com/zereforuto">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-181717?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Follow me on GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-FF2800?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111" alt="Follow my GitHub journey"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4B0082,100:050510&height=120&section=footer" width="100%" alt="Cyberpunk footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2800,50:B80000,100:080808&height=130&section=footer" width="100%" alt="Red and black racing-themed footer"/>
 
-**`SYSTEM MESSAGE: Turning ideas into applications, one commit at a time.`**
+**`SYSTEM STATUS: READY TO BUILD. READY TO LEAD. READY TO SHIP.`**
 
-<sub>Designed with code, creativity, and a little neon. 💜💙</sub>
+<sub>Driven by code. Powered by creativity. Built for performance. 🏎️</sub>
 
 </div>
