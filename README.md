@@ -35,21 +35,15 @@
 &nbsp;
 <img src="https://img.shields.io/badge/DRS-OPEN-FFD700?style=for-the-badge&labelColor=111111" height="64" alt="DRS open"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2800,100:FFD700&height=3" width="60%" alt="Red to gold divider"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2400&pause=700&color=FF2800&center=true&vCenter=true&width=1100&height=60&lines=NO+LIMITS.+JUST+LAP+TIMES.;PRECISION+OVER+SHORTCUTS.;HIT+THE+APEX.+OWN+THE+LINE.;BUILT+FOR+SPEED.+ENGINEERED+TO+WIN.;FAST+MIND.+CLEAN+CODE.;EVERY+DETAIL+MATTERS.;INNOVATE.+EXECUTE.+DOMINATE.;FULL+THROTTLE.+ZERO+COMPROMISE.;CHASE+PERFECTION.+DELIVER+RESULTS." alt="Animated racing quotes"/>
-
-<br/><br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2400&pause=700&color=FF2800&center=true&vCenter=true&width=1100&height=45&lines=NO+LIMITS.+JUST+LAP+TIMES.;PRECISION+OVER+SHORTCUTS.;HIT+THE+APEX.+OWN+THE+LINE.;BUILT+FOR+SPEED.+ENGINEERED+TO+WIN.;FAST+MIND.+CLEAN+CODE.;EVERY+DETAIL+MATTERS.;INNOVATE.+EXECUTE.+DOMINATE.;FULL+THROTTLE.+ZERO+COMPROMISE.;CHASE+PERFECTION.+DELIVER+RESULTS." alt="Animated racing quotes"/>
 
 <a href="https://github.com/zereforuto?tab=repositories">
-<img src="https://img.shields.io/badge/ENTER_THE_GARAGE-FF2800?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" height="68" alt="Enter the garage"/>
+<img src="https://img.shields.io/badge/ENTER_THE_GARAGE-FF2800?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" height="60" alt="Enter the garage"/>
 </a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2800&height=6" width="80%" alt="Red racing divider"/>
 
