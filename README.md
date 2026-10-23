@@ -25,9 +25,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/DRIVER-01-FF2800?style=for-the-badge&labelColor=111111" height="40" alt="Driver 01"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LEADERSHIP-FFD700?style=for-the-badge&labelColor=111111" height="40" alt="Leadership"/>
 
 <br/><br/>
 
