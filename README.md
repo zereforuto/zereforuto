@@ -14,7 +14,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%E2%97%A4_SCUDERIA_DEVELOPER_%E2%97%A2-111111?style=for-the-badge&labelColor=FF2800" height="40" alt="Scuderia developer"/>
 
 <br/>
 
