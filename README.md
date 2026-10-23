@@ -18,7 +18,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=72&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=1100&height=130&lines=JAYZER+RELATOR" alt="Jayzer Relator"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=FULL-STACK+DEVELOPER" alt="Full-stack developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=FULL-STACK+DRIVER" alt="Full-stack developer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&repeat=false&width=1000&height=40&lines=WEB+%C2%B7+MOBILE+%C2%B7+DESKTOP+%C2%B7+DATABASES+%C2%B7+UI%2FUX" alt="Specialties"/>
 
