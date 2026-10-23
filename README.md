@@ -14,7 +14,6 @@
 
 <br/><br/>
 
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=72&duration=1&pause=999999&color=FF2800&center=true&vCenter=true&repeat=false&width=1100&height=130&lines=JAYZER+RELATOR" alt="Jayzer Relator"/>
